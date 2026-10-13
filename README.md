@@ -223,12 +223,3 @@ as estatísticas brutas do gem5.
 | Headers C (`*_model.h`, `dataset.h`) | `rf_model.h` tem ~558 MB | etapa 2 |
 | Binários ARM | dependem do compilador local | etapa 3 |
 | Pastas `m5out_*` completas | volume; os `stats.txt` e `config.ini` estão nos `.tar.gz` | etapas 1–3 |
-
----
-
-## 7. Como citar
-
-Pereira, L. F. M. C., Souza, M. A. e Freitas, H. C. (2026). Eficiência Energética de
-Arquiteturas *In-Order* e *Out-of-Order* para Aprendizado Federado de Borda na Detecção de
-Intrusão em CAN de Veículos Autônomos. In: *Anais do XXVII Simpósio em Sistemas Computacionais
-de Alto Desempenho (SSCAD)*. SBC.
