@@ -1,0 +1,34 @@
+{
+  "rf": {
+    "best_params": {
+      "n_estimators": 499,
+      "max_depth": 27,
+      "min_samples_leaf": 2
+    },
+    "cv_f1_macro": 0.8935741137524278
+  },
+  "mlp": {
+    "best_params": {
+      "h1": 75,
+      "h2": 64,
+      "alpha": 0.0016462341590019,
+      "lr": 0.00010944454726110989
+    },
+    "cv_f1_macro": 0.8490610755528263
+  },
+  "svm": {
+    "best_params": {
+      "C": 9.201189978927104
+    },
+    "cv_f1_macro": 0.7987807362258387
+  },
+  "xgb": {
+    "best_params": {
+      "n_estimators": 275,
+      "learning_rate": 0.1990509322481947,
+      "max_depth": 11,
+      "subsample": 0.9687580268262198
+    },
+    "cv_f1_macro": 0.8935883434083319
+  }
+}

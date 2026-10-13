@@ -1,0 +1,11 @@
+# Versoes usadas na geracao dos resultados do artigo (Python 3.14).
+# O script de figuras (experimentos/scripts/graficos_sscad.py) precisa apenas de numpy e matplotlib.
+numpy==2.5.1
+pandas==3.0.3
+scikit-learn==1.9.0
+xgboost==3.3.0
+imbalanced-learn==0.14.2
+optuna==4.9.0
+joblib==1.5.3
+tqdm==4.69.0
+matplotlib==3.11.1
